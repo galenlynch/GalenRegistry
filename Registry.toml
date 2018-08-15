@@ -1,0 +1,32 @@
+name = "Galen"
+uuid = "58ff900b-3071-5ad5-aefd-6f26c7ca40c3"
+repo = "git@bitbucket.org:feelab/galenregistry.git"
+
+description = """
+Packages developed by Galen that aren't publically listed
+"""
+
+[packages]
+09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a = { name = "GLFileCache", path = "G/GLFileCache" }
+0c649a72-a9cb-5d46-9b0c-e014f97c08cd = { name = "MountainLab", path = "M/MountainLab" }
+1751c77c-d90c-5130-9faa-3b4ea8d90a70 = { name = "PointProcesses", path = "P/PointProcesses" }
+1899e1d9-0e62-5b08-93e8-96938e3582a6 = { name = "GLTimeseries", path = "G/GLTimeseries" }
+1f2ffea9-73bd-5d04-b319-71eab08f4cf7 = { name = "GLPlotting", path = "G/GLPlotting" }
+22e6403b-b5c1-5b07-bdd0-e10e94a3d1a8 = { name = "Chronux", path = "C/Chronux" }
+34c7ed6b-ff08-5868-b4e9-6a77a2b436e9 = { name = "JoinedArrays", path = "J/JoinedArrays" }
+3671797b-b403-50f8-ae8f-9a67aa3877b6 = { name = "PyQtGraph", path = "P/PyQtGraph" }
+4f3ae7f7-1a63-5845-9346-bdb28363aa1a = { name = "ShowTree", path = "S/ShowTree" }
+65444e21-13b1-5fbd-b269-b51e5fd998ef = { name = "TSConditioning", path = "T/TSConditioning" }
+792fb28f-c6b2-5f06-a8ac-ad608d2e04a9 = { name = "OEPlotting", path = "O/OEPlotting" }
+85caa3df-cadf-5975-918b-2e8fc037b3f4 = { name = "AcqGuiTools", path = "A/AcqGuiTools" }
+887ef28f-0137-5fc4-a708-ebf1bebd8458 = { name = "KiloSort", path = "K/KiloSort" }
+8b4c6747-1f02-570a-a961-a96037df41d6 = { name = "GLUtilities", path = "G/GLUtilities" }
+8f482346-92be-5b4f-b3d2-8fb8a911da8e = { name = "SpykingCircus", path = "S/SpykingCircus" }
+98771ce5-7d96-5bd1-bf3e-1fdeced7aaac = { name = "GLBootStrap", path = "G/GLBootStrap" }
+ac41db86-e0e2-5699-a8f0-74eb2b42daa9 = { name = "DbCache", path = "D/DbCache" }
+c1fc0891-a329-5e3b-bec7-f99dacaec59e = { name = "Munging", path = "M/Munging" }
+cda7f33f-16bd-5acf-8846-697be4d4b9a9 = { name = "OEDiscovery", path = "O/OEDiscovery" }
+d375881c-1a96-5303-9718-cbc9093d14c3 = { name = "Phy", path = "P/Phy" }
+d859e211-4831-58a2-94f1-1b0ad2592100 = { name = "FeeSqlScripts", path = "F/FeeSqlScripts" }
+d95518f9-d624-5c5b-9e70-e2fa41af329d = { name = "OEUtilities", path = "O/OEUtilities" }
+e8059576-bc99-5d04-89a5-9dd3a07e8d35 = { name = "FeeSqlLoader", path = "F/FeeSqlLoader" }

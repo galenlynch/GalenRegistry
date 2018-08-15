@@ -1,0 +1,3 @@
+name = "PyQtGraph"
+uuid = "3671797b-b403-50f8-ae8f-9a67aa3877b6"
+repo = "git@bitbucket.org:feelab/pyqtgraph.jl.git"

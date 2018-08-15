@@ -1,0 +1,3 @@
+name = "TSConditioning"
+uuid = "65444e21-13b1-5fbd-b269-b51e5fd998ef"
+repo = "git@bitbucket.org:feelab/TSConditioning.jl.git"

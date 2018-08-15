@@ -1,0 +1,3 @@
+name = "FeeSqlLoader"
+uuid = "e8059576-bc99-5d04-89a5-9dd3a07e8d35"
+repo = "git@bitbucket.org:feelab/FeeSqlLoader.jl.git"

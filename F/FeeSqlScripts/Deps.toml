@@ -1,0 +1,9 @@
+["0.0"]
+FeeSqlLoader = "e8059576-bc99-5d04-89a5-9dd3a07e8d35"
+
+["0.0.1-0.0.2"]
+ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
+
+["0.0.3"]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"

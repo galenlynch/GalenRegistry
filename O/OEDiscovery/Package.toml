@@ -1,0 +1,3 @@
+name = "OEDiscovery"
+uuid = "cda7f33f-16bd-5acf-8846-697be4d4b9a9"
+repo = "git@bitbucket.org:feelab/OEDiscovery.jl.git"

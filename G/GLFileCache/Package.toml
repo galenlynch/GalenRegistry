@@ -1,0 +1,3 @@
+name = "GLFileCache"
+uuid = "09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a"
+repo = "git@bitbucket.org:feelab/glfilecache.jl.git"

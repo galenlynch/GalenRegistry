@@ -1,0 +1,6 @@
+["0.0"]
+julia = "0.6-1.1"
+GLPlotting = "0.0"
+OEUtilities = "0.0"
+OpenEphysLoader = "0.0-0.2"
+PyPlot = "1.0-2.6"

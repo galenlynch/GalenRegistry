@@ -1,0 +1,12 @@
+["0.0"]
+AcqGuiTools = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+OpenEphysLoader = "98c9b6dd-1b90-5d67-90ca-be6a773cd6f7"
+
+["0.0.1-0.0.2"]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
+["0.0.3"]
+ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
+OEUtilities = "d95518f9-d624-5c5b-9e70-e2fa41af329d"

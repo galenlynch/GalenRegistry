@@ -1,0 +1,11 @@
+["0.0"]
+OpenEphysLoader = "98c9b6dd-1b90-5d67-90ca-be6a773cd6f7"
+
+["0.0.2-0.0.3"]
+GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+
+["0.0.3"]
+GLFileCache = "09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a"
+GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+MountainLab = "0c649a72-a9cb-5d46-9b0c-e014f97c08cd"

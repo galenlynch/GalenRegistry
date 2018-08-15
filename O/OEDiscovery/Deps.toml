@@ -1,0 +1,5 @@
+["0.0"]
+GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+OEUtilities = "d95518f9-d624-5c5b-9e70-e2fa41af329d"
+OpenEphysLoader = "98c9b6dd-1b90-5d67-90ca-be6a773cd6f7"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"

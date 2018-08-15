@@ -1,0 +1,3 @@
+name = "Phy"
+uuid = "d375881c-1a96-5303-9718-cbc9093d14c3"
+repo = "git@bitbucket.org:feelab/phy.jl.git"

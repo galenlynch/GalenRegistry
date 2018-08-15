@@ -1,0 +1,3 @@
+name = "OEPlotting"
+uuid = "792fb28f-c6b2-5f06-a8ac-ad608d2e04a9"
+repo = "git@bitbucket.org:feelab/oeplotting.jl.git"
