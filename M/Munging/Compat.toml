@@ -11,7 +11,7 @@ PyCall = "0.0-1.17"
 ["0.0.3"]
 AcqGuiTools = "0.0.3"
 DataFrames = "0.10-0.13"
-GLUtilities = "0.0.3-0.0.4"
+GLUtilities = "0.0.3-0.0.5"
 ODBC = "0.5-0.6"
 OEUtilities = "0.0.2-0.0.3"
 OpenEphysLoader = "0.1-0.2"

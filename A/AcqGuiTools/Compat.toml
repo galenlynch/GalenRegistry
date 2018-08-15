@@ -6,5 +6,5 @@ GLUtilities = "0.0"
 PyCall = "0.0-1.17"
 
 ["0.0.3"]
-GLUtilities = "0.0.3-0.0.4"
+GLUtilities = "0.0.3-0.0.5"
 PyCall = "1.11-1.17"

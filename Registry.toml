@@ -3,8 +3,7 @@ uuid = "58ff900b-3071-5ad5-aefd-6f26c7ca40c3"
 repo = "git@bitbucket.org:feelab/galenregistry.git"
 
 description = """
-Packages developed by Galen that aren't publically listed
-"""
+Packages that Galen developed that are not yet public"""
 
 [packages]
 09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a = { name = "GLFileCache", path = "G/GLFileCache" }
