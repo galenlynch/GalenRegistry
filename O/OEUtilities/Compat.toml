@@ -3,12 +3,12 @@ julia = "0.6-1.1"
 OpenEphysLoader = "0.1-0.2"
 
 ["0.0.2"]
-GLPlotting = "0.0.2-0.0.4"
+GLPlotting = "0.0.2-0.0.5"
 GLUtilities = "0.0.3-0.0.5"
 
 ["0.0.3"]
 GLFileCache = "0.0"
-GLPlotting = "0.0.4"
+GLPlotting = "0.0.4-0.0.5"
 GLTimeseries = "0.0.4-0.0.5"
 GLUtilities = "0.0.4-0.0.5"
 MountainLab = "0.0"

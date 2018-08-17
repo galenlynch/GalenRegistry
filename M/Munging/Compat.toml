@@ -6,7 +6,7 @@ AcqGuiTools = "0.0"
 DataFrames = "0.1-0.13"
 GLUtilities = "0.0"
 OpenEphysLoader = "0.0-0.2"
-PyCall = "0.0-1.17"
+PyCall = "0.0-1.18"
 
 ["0.0.3"]
 AcqGuiTools = "0.0.3-0.0.4"
