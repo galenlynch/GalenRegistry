@@ -9,10 +9,8 @@ GLPlotting = "0.0.2-0.0.5"
 GLUtilities = "0.0.3-0.0.5"
 
 ["0.0.3"]
-GLPlotting = "0.0.4-0.0.5"
-
-["0.0.3-0.0.4"]
 GLFileCache = "0.0"
+GLPlotting = "0.0.4-0.0.5"
 GLTimeseries = "0.0.4-0.0.5"
 GLUtilities = "0.0.4-0.0.5"
 MountainLab = "0.0"
@@ -20,6 +18,10 @@ MountainLab = "0.0"
 ["0.0.4"]
 Compat = "1.0"
 DSP = "0.5"
-OpenEphysLoader = "0.2"
+GLFileCache = "0.0.2"
+GLTimeseries = "0.0.5"
+GLUtilities = "0.0.5"
+MountainLab = "0.0.2"
+OpenEphysLoader = "0.2.3"
 SpykingCircus = "0.0"
-TSConditioning = "0.0"
+TSConditioning = "0.0.2"

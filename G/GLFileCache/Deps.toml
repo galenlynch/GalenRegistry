@@ -2,3 +2,6 @@
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.0.2"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"

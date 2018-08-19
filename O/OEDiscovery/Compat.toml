@@ -1,10 +1,10 @@
 ["0.0"]
 julia = "0.6-1.1"
-OpenEphysLoader = "0.0-0.2"
 
 ["0.0.1"]
 GLPlotting = "0.0"
 OEUtilities = "0.0"
+OpenEphysLoader = "0.0-0.2"
 PyPlot = "1.0-2.6"
 
 ["0.0.2"]
@@ -12,12 +12,13 @@ Compat = "1.0"
 DataFrames = "0.11-0.13"
 DataStreams = "0.3-0.4"
 DSP = "0.2-0.5"
-GLFileCache = "0.0"
-GLTimeseries = "0.0.3-0.0.5"
-GLUtilities = "0.0.3-0.0.5"
+GLFileCache = "0.0.2"
+GLTimeseries = "0.0.5"
+GLUtilities = "0.0.5"
 Interpolations = "0.7-0.8"
 LibPQ = "0.3"
 Missings = "0.2-0.3"
 NamedTuples = "4.0"
-OEUtilities = "0.0.2-0.0.4"
-TSConditioning = "0.0"
+OEUtilities = "0.0.4"
+OpenEphysLoader = "0.2.3"
+TSConditioning = "0.0.2"
