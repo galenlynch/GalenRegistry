@@ -1,11 +1,3 @@
-["0.0"]
-julia = "0.5-1.1"
-AcqGuiTools = "0.0"
-Compat = "0.0-1.0"
-ExcelReaders = "0.1-0.10"
-GLUtilities = "0.0"
-JSON = "0.1-0.19"
-
 ["0.0.1"]
 StackTraces = "0.0-0.1"
 
@@ -17,6 +9,14 @@ Formatting = "0.1-0.3"
 ODBC = "0.1-0.6"
 OpenEphysLoader = "0.0-0.2"
 
+["0.0.1-0.0.3"]
+julia = "0.5-1.1"
+AcqGuiTools = "0.0"
+Compat = "0.0-1.0"
+ExcelReaders = "0.1-0.10"
+GLUtilities = "0.0"
+JSON = "0.1-0.19"
+
 ["0.0.2-0.0.3"]
 DbCache = "0.0-0.1"
 
@@ -24,5 +24,17 @@ DbCache = "0.0-0.1"
 DataArrays = "0.5-0.7"
 DataFrames = "0.10-0.13"
 DataStructures = "0.5-0.11"
+
+["0.0.3-0.0.4"]
 Missings = "0.2-0.3"
 OpenEphysLoader = "0.1-0.2"
+
+["0.0.4"]
+julia = "0.6-1.1"
+AcqGuiTools = "0.0.3-0.0.4"
+Compat = "1.0"
+DataValues = "0.3-0.4"
+DbCache = "0.1"
+ExcelReaders = "0.9-0.10"
+GLUtilities = "0.0.3-0.0.5"
+JSON = "0.17-0.19"
