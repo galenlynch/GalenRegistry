@@ -1,20 +1,19 @@
 ["0.0"]
 julia = "0.5-1.1"
-ODBC = "0.1-0.6"
+ODBC = "0.1-0.7"
 
 ["0.0.2-0.1.0"]
 Compat = "0.0-1.0"
 
 ["0.1"]
 LibPQ = "0.3"
+Missings = "0.2-0.3"
 
 ["0.1.0"]
 julia = "0.5-0.7"
-Missings = "0.2-0.3"
 
 ["0.1.1"]
-julia = "0.6-0.7"
+julia = "0.6-1.1"
 Compat = "1.0"
-DataStreams = "0.3"
-Missings = "0.2"
+DataStreams = "0.3-0.4"
 NamedTuples = "4.0"
