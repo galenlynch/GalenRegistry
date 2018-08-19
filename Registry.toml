@@ -16,6 +16,7 @@ Packages that Galen developed that are not yet public"""
 3671797b-b403-50f8-ae8f-9a67aa3877b6 = { name = "PyQtGraph", path = "P/PyQtGraph" }
 4f3ae7f7-1a63-5845-9346-bdb28363aa1a = { name = "ShowTree", path = "S/ShowTree" }
 65444e21-13b1-5fbd-b269-b51e5fd998ef = { name = "TSConditioning", path = "T/TSConditioning" }
+66348666-c7df-5349-9f57-1aa7b70c968c = { name = "EphysScorer", path = "E/EphysScorer" }
 792fb28f-c6b2-5f06-a8ac-ad608d2e04a9 = { name = "OEPlotting", path = "O/OEPlotting" }
 85caa3df-cadf-5975-918b-2e8fc037b3f4 = { name = "AcqGuiTools", path = "A/AcqGuiTools" }
 8b4c6747-1f02-570a-a961-a96037df41d6 = { name = "GLUtilities", path = "G/GLUtilities" }
@@ -23,6 +24,7 @@ Packages that Galen developed that are not yet public"""
 98771ce5-7d96-5bd1-bf3e-1fdeced7aaac = { name = "GLBootStrap", path = "G/GLBootStrap" }
 ac41db86-e0e2-5699-a8f0-74eb2b42daa9 = { name = "DbCache", path = "D/DbCache" }
 c1fc0891-a329-5e3b-bec7-f99dacaec59e = { name = "Munging", path = "M/Munging" }
+cb999fff-dc27-5add-ba90-100744871a8d = { name = "GlDbPlotting", path = "G/GlDbPlotting" }
 cda7f33f-16bd-5acf-8846-697be4d4b9a9 = { name = "OEDiscovery", path = "O/OEDiscovery" }
 d375881c-1a96-5303-9718-cbc9093d14c3 = { name = "Phy", path = "P/Phy" }
 d859e211-4831-58a2-94f1-1b0ad2592100 = { name = "FeeSqlScripts", path = "F/FeeSqlScripts" }
