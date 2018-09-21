@@ -11,6 +11,6 @@ Missings = "0.2-0.3"
 
 ["0.0.4"]
 julia = "0.6-1.1"
-Compat = "1.0"
+Compat = "1.0-1.1"
 DbCache = "0.1.1"
 FeeSqlLoader = "0.0.4"

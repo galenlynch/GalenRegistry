@@ -34,7 +34,7 @@ PyQtGraph = "0.0"
 Missings = "0.2-0.3"
 
 ["0.0.5"]
-Compat = "1.0"
+Compat = "1.0-1.1"
 GLTimeseries = "0.0.5"
 GLUtilities = "0.0.5"
 PointProcesses = "0.0.2"
