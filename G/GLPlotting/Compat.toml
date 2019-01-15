@@ -1,5 +1,5 @@
 ["0.0"]
-julia = "0.6-1.1"
+julia = "0.6-1.2"
 
 ["0.0.1"]
 GLUtilities = "0.0"
@@ -34,7 +34,7 @@ PyQtGraph = "0.0"
 Missings = "0.2-0.3"
 
 ["0.0.5"]
-Compat = "1.0-1.1"
+Compat = "1.0-1.4"
 GLTimeseries = "0.0.5"
 GLUtilities = "0.0.5"
 PointProcesses = "0.0.2"

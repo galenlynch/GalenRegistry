@@ -1,5 +1,5 @@
 ["0.0"]
-julia = "0.6-1.1"
+julia = "0.6-1.2"
 
 ["0.0.1-0.0.3"]
 OpenEphysLoader = "0.1-0.2"
@@ -16,12 +16,12 @@ GLUtilities = "0.0.4-0.0.5"
 MountainLab = "0.0"
 
 ["0.0.4"]
-Compat = "1.0-1.1"
+Compat = "1.0-1.4"
 DSP = "0.5"
 GLFileCache = "0.0.2"
 GLTimeseries = "0.0.5"
 GLUtilities = "0.0.5"
 MountainLab = "0.0.2"
-OpenEphysLoader = "0.2.3"
+OpenEphysLoader = "0.2.3-0.2.4"
 SpykingCircus = "0.0"
 TSConditioning = "0.0.2"

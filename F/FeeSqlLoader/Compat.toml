@@ -3,39 +3,39 @@ StackTraces = "0.0-0.1"
 
 ["0.0.1-0.0.2"]
 DataArrays = "0.0-0.7"
-DataFrames = "0.1-0.13"
-DataStructures = "0.2-0.13"
+DataFrames = "0.1-0.15"
+DataStructures = "0.2-0.14"
 Formatting = "0.1-0.3"
-ODBC = "0.1-0.7"
+ODBC = "0.1-0.8"
 OpenEphysLoader = "0.0-0.2"
 
 ["0.0.1-0.0.3"]
-julia = "0.5-1.1"
+julia = "0.5-1.2"
 AcqGuiTools = "0.0"
-Compat = "0.0-1.1"
+Compat = "0.0-1.4"
 ExcelReaders = "0.1-0.10"
 GLUtilities = "0.0"
-JSON = "0.1-0.19"
+JSON = "0.1-0.20"
 
 ["0.0.2-0.0.3"]
 DbCache = "0.0-0.1"
 
 ["0.0.3"]
 DataArrays = "0.5-0.7"
-DataFrames = "0.10-0.13"
-DataStructures = "0.5-0.13"
+DataFrames = "0.10-0.15"
+DataStructures = "0.5-0.14"
 OpenEphysLoader = "0.1-0.2"
 
 ["0.0.3-0.0.4"]
 Missings = "0.2-0.3"
 
 ["0.0.4"]
-julia = "0.6-1.1"
+julia = "0.6-1.2"
 AcqGuiTools = "0.0.4"
-Compat = "1.0-1.1"
+Compat = "1.0-1.4"
 DataValues = "0.3-0.4"
 DbCache = "0.1.1"
 ExcelReaders = "0.9-0.10"
 GLUtilities = "0.0.5"
-JSON = "0.17-0.19"
-OpenEphysLoader = "0.2.3"
+JSON = "0.17-0.20"
+OpenEphysLoader = "0.2.3-0.2.4"
