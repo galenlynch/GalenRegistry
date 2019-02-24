@@ -1,6 +1,6 @@
 ["0.0.1-0.0.2"]
 AcqGuiTools = "0.0"
-DataFrames = "0.1-0.15"
+DataFrames = "0.1-0.17"
 GLUtilities = "0.0"
 OpenEphysLoader = "0.0-0.2"
 PyCall = "0.0-1.18"
@@ -16,12 +16,12 @@ OEUtilities = "0.0.2-0.0.4"
 OpenEphysLoader = "0.1-0.2"
 
 ["0.0.3-0.0.4"]
-DataFrames = "0.10-0.15"
+DataFrames = "0.10-0.17"
 
 ["0.0.4"]
 julia = "0.6-1.2"
 AcqGuiTools = "0.0.4"
-Compat = "1.0-1.4"
+Compat = "1.0-1.5"
 DbCache = "0.1.1"
 GLUtilities = "0.0.5"
 OEUtilities = "0.0.4"

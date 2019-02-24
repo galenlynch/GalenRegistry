@@ -14,6 +14,7 @@ Packages that Galen developed that are not yet public"""
 22e6403b-b5c1-5b07-bdd0-e10e94a3d1a8 = { name = "Chronux", path = "C/Chronux" }
 34c7ed6b-ff08-5868-b4e9-6a77a2b436e9 = { name = "JoinedArrays", path = "J/JoinedArrays" }
 3671797b-b403-50f8-ae8f-9a67aa3877b6 = { name = "PyQtGraph", path = "P/PyQtGraph" }
+47645f41-d5a4-5a97-9416-ecfa2f0b970d = { name = "WaveClus", path = "W/WaveClus" }
 4f3ae7f7-1a63-5845-9346-bdb28363aa1a = { name = "ShowTree", path = "S/ShowTree" }
 65444e21-13b1-5fbd-b269-b51e5fd998ef = { name = "TSConditioning", path = "T/TSConditioning" }
 66348666-c7df-5349-9f57-1aa7b70c968c = { name = "EphysScorer", path = "E/EphysScorer" }
@@ -23,6 +24,7 @@ Packages that Galen developed that are not yet public"""
 8b4c6747-1f02-570a-a961-a96037df41d6 = { name = "GLUtilities", path = "G/GLUtilities" }
 8f482346-92be-5b4f-b3d2-8fb8a911da8e = { name = "SpykingCircus", path = "S/SpykingCircus" }
 98771ce5-7d96-5bd1-bf3e-1fdeced7aaac = { name = "GLBootStrap", path = "G/GLBootStrap" }
+aa617110-c04f-5099-8839-5e9d8aa4b2aa = { name = "GLEphys", path = "G/GLEphys" }
 ac41db86-e0e2-5699-a8f0-74eb2b42daa9 = { name = "DbCache", path = "D/DbCache" }
 acfd8622-5368-561c-8721-366ff6cfe777 = { name = "SpikeAnalysis", path = "S/SpikeAnalysis" }
 ba9f8c08-7079-5968-bb88-5786d7f7fda6 = { name = "RecordingReports", path = "R/RecordingReports" }
