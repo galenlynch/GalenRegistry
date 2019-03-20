@@ -5,8 +5,8 @@ julia = "0.6-1.2"
 GLUtilities = "0.0"
 Munging = "0.0"
 OpenEphysLoader = "0.0-0.2"
-PyCall = "0.0-1.18"
-PyPlot = "1.0-2.7"
+PyCall = "0.0-1.90"
+PyPlot = "1.0-2.8"
 
 ["0.0.2"]
 GLTimeseries = "0.0.2-0.0.5"
@@ -19,8 +19,8 @@ DSP = "0.2-0.5"
 GLUtilities = "0.0.3-0.0.5"
 
 ["0.0.2-0.0.5"]
-PyCall = "1.11-1.18"
-PyPlot = "2.0-2.7"
+PyCall = "1.11-1.90"
+PyPlot = "2.0-2.8"
 
 ["0.0.3"]
 GLTimeseries = "0.0.3-0.0.5"

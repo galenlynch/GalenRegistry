@@ -3,13 +3,13 @@ julia = "0.5-1.2"
 
 ["0.0.1-0.0.2"]
 GLUtilities = "0.0"
-PyCall = "0.0-1.18"
+PyCall = "0.0-1.90"
 
 ["0.0.3"]
 GLUtilities = "0.0.3-0.0.5"
-PyCall = "1.11-1.18"
+PyCall = "1.11-1.90"
 
 ["0.0.4"]
 Compat = "1.0-1.5"
 GLUtilities = "0.0.5"
-PyCall = "1.0-1.18"
+PyCall = "1.0-1.90"
