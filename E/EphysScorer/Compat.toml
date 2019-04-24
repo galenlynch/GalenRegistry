@@ -1,5 +1,5 @@
 ["0.0"]
-julia = "0.6-1.2"
+julia = "0.6-1.3"
 Compat = "1.0-1.5"
 GlDbPlotting = "0.0.2"
 GLFileCache = "0.0.2"
@@ -10,5 +10,5 @@ LibPQ = "0.3-0.7"
 Missings = "0.2-0.4"
 OEDiscovery = "0.0.2"
 OEPlotting = "0.0.2"
-PyCall = "1.11-1.90"
+PyCall = "1.11-1.91"
 PyQtGraph = "0.0"
