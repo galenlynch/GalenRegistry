@@ -12,6 +12,7 @@ Packages that Galen developed that are not yet public"""
 1899e1d9-0e62-5b08-93e8-96938e3582a6 = { name = "GLTimeseries", path = "G/GLTimeseries" }
 1f2ffea9-73bd-5d04-b319-71eab08f4cf7 = { name = "GLPlotting", path = "G/GLPlotting" }
 22e6403b-b5c1-5b07-bdd0-e10e94a3d1a8 = { name = "Chronux", path = "C/Chronux" }
+250fb856-b7da-50e3-a87b-ac946a549c37 = { name = "GCaMPAnalysis", path = "G/GCaMPAnalysis" }
 34c7ed6b-ff08-5868-b4e9-6a77a2b436e9 = { name = "JoinedArrays", path = "J/JoinedArrays" }
 3671797b-b403-50f8-ae8f-9a67aa3877b6 = { name = "PyQtGraph", path = "P/PyQtGraph" }
 47645f41-d5a4-5a97-9416-ecfa2f0b970d = { name = "WaveClus", path = "W/WaveClus" }
@@ -20,6 +21,7 @@ Packages that Galen developed that are not yet public"""
 66348666-c7df-5349-9f57-1aa7b70c968c = { name = "EphysScorer", path = "E/EphysScorer" }
 792fb28f-c6b2-5f06-a8ac-ad608d2e04a9 = { name = "OEPlotting", path = "O/OEPlotting" }
 7df9be73-7dfd-50c0-8315-92cf85547cfe = { name = "RegistryUtils", path = "R/RegistryUtils" }
+7f5789ec-5f73-57b2-a383-f6907311fb4c = { name = "InscopixFiles", path = "I/InscopixFiles" }
 85caa3df-cadf-5975-918b-2e8fc037b3f4 = { name = "AcqGuiTools", path = "A/AcqGuiTools" }
 8b4c6747-1f02-570a-a961-a96037df41d6 = { name = "GLUtilities", path = "G/GLUtilities" }
 8f482346-92be-5b4f-b3d2-8fb8a911da8e = { name = "SpykingCircus", path = "S/SpykingCircus" }
@@ -27,6 +29,7 @@ Packages that Galen developed that are not yet public"""
 aa617110-c04f-5099-8839-5e9d8aa4b2aa = { name = "GLEphys", path = "G/GLEphys" }
 ac41db86-e0e2-5699-a8f0-74eb2b42daa9 = { name = "DbCache", path = "D/DbCache" }
 acfd8622-5368-561c-8721-366ff6cfe777 = { name = "SpikeAnalysis", path = "S/SpikeAnalysis" }
+ae4a1b0c-2eba-53ea-bfa1-4b204b1b4ec7 = { name = "Pillow", path = "P/Pillow" }
 ba9f8c08-7079-5968-bb88-5786d7f7fda6 = { name = "RecordingReports", path = "R/RecordingReports" }
 c1fc0891-a329-5e3b-bec7-f99dacaec59e = { name = "Munging", path = "M/Munging" }
 cb999fff-dc27-5add-ba90-100744871a8d = { name = "GlDbPlotting", path = "G/GlDbPlotting" }

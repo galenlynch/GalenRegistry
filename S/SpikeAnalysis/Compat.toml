@@ -4,5 +4,8 @@ Destruct = "1.0-1.1"
 DSP = "0.0-0.5"
 FFTW = "0.0-0.2"
 GLUtilities = "0.0"
-Interpolations = "0.0-0.11"
+Interpolations = "0.0-0.12"
 StatsBase = "0.1-0.30"
+
+["0.0.2"]
+PointProcesses = "0.0"
