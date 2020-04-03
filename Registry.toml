@@ -1,9 +1,7 @@
 name = "Galen"
 uuid = "58ff900b-3071-5ad5-aefd-6f26c7ca40c3"
 repo = "git@bitbucket.org:feelab/galenregistry.git"
-
-description = """
-Packages that Galen developed that are not yet public"""
+description = "Packages that Galen developed that are not yet public"
 
 [packages]
 09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a = { name = "GLFileCache", path = "G/GLFileCache" }
@@ -33,6 +31,7 @@ ae4a1b0c-2eba-53ea-bfa1-4b204b1b4ec7 = { name = "Pillow", path = "P/Pillow" }
 ba9f8c08-7079-5968-bb88-5786d7f7fda6 = { name = "RecordingReports", path = "R/RecordingReports" }
 c1fc0891-a329-5e3b-bec7-f99dacaec59e = { name = "Munging", path = "M/Munging" }
 cb999fff-dc27-5add-ba90-100744871a8d = { name = "GlDbPlotting", path = "G/GlDbPlotting" }
+cd509344-b550-11e9-0787-e78261257376 = { name = "FeatherScope", path = "F/FeatherScope" }
 cda7f33f-16bd-5acf-8846-697be4d4b9a9 = { name = "OEDiscovery", path = "O/OEDiscovery" }
 d375881c-1a96-5303-9718-cbc9093d14c3 = { name = "Phy", path = "P/Phy" }
 d859e211-4831-58a2-94f1-1b0ad2592100 = { name = "FeeSqlScripts", path = "F/FeeSqlScripts" }
