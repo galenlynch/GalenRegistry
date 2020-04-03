@@ -6,9 +6,6 @@ GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 OpenEphysLoader = "98c9b6dd-1b90-5d67-90ca-be6a773cd6f7"
 
-["0.0.1"]
-StackTraces = "670d9266-7b14-5e98-a133-3b8c27ea9ed4"
-
 ["0.0.1-0.0.2"]
 Formatting = "59287772-0a20-5a39-b81b-1366585eb4c0"
 ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
