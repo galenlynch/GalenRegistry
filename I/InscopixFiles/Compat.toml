@@ -1,4 +1,4 @@
 ["0.0"]
-julia = "0.7-1.3"
+julia = "0.7-1"
 GLUtilities = "0.0"
 LightXML = "0.1-0.8"
