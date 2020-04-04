@@ -10,7 +10,7 @@ julia = "0.5-1"
 
 ["0.0.3"]
 AcqGuiTools = "0.0.3-0.0.5"
-GLUtilities = "0.0.3-0.0.6"
+GLUtilities = "0.0.3-0.0.7"
 ODBC = "0.5-0.8"
 OEUtilities = "0.0.2-0.0.5"
 OpenEphysLoader = "0.1-0.2"
@@ -23,7 +23,7 @@ julia = "0.6-1"
 AcqGuiTools = "0.0.4-0.0.5"
 Compat = "1.0-1.5"
 DbCache = "0.1.1-0.1.2"
-GLUtilities = "0.0.5-0.0.6"
+GLUtilities = "0.0.5-0.0.7"
 OEUtilities = "0.0.4-0.0.5"
 OpenEphysLoader = "0.2.3-0.2.4"
 
