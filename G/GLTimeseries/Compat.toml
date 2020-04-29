@@ -5,13 +5,13 @@ julia = "0.6-1"
 GLUtilities = "0.0"
 
 ["0.0.2-0.0.3"]
-GLUtilities = "0.0.3-0.0.7"
+GLUtilities = "0.0.3-0.1"
 
 ["0.0.2-0.0.6"]
 DSP = "0.2-0.5"
 
 ["0.0.4"]
-GLUtilities = "0.0.4-0.0.7"
+GLUtilities = "0.0.4-0.1"
 
 ["0.0.5"]
 GLUtilities = "0.0.4-0.0.5"
@@ -23,5 +23,5 @@ FFTW = "0.0-0.2"
 Missings = "0.2-0.3"
 
 ["0.0.6"]
-GLUtilities = "0.0.5-0.0.7"
+GLUtilities = "0.0.5-0.1"
 PointProcesses = "0.0.2-0.0.3"

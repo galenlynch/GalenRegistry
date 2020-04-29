@@ -15,5 +15,5 @@ PyQtGraph = "0.0"
 
 ["0.0.2"]
 ArgCheck = "1.0"
-GLUtilities = "0.0.5-0.0.7"
+GLUtilities = "0.0.5-0.1"
 PointProcesses = "0.0.2-0.0.3"

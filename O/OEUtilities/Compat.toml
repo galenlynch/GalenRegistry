@@ -6,13 +6,13 @@ OpenEphysLoader = "0.1-0.2"
 
 ["0.0.2"]
 GLPlotting = "0.0.2-0.0.6"
-GLUtilities = "0.0.3-0.0.7"
+GLUtilities = "0.0.3-0.1"
 
 ["0.0.3"]
 GLFileCache = "0.0"
 GLPlotting = "0.0.4-0.0.6"
 GLTimeseries = "0.0.4-0.0.6"
-GLUtilities = "0.0.4-0.0.7"
+GLUtilities = "0.0.4-0.1"
 MountainLab = "0.0"
 
 ["0.0.4"]
@@ -32,5 +32,5 @@ SpykingCircus = "0.0"
 Compat = "1.0-2.1"
 GLFileCache = "0.0.2-0.0.3"
 GLTimeseries = "0.0.5-0.0.6"
-GLUtilities = "0.0.5-0.0.7"
+GLUtilities = "0.0.5-0.1"
 TSConditioning = "0.0.2-0.0.3"
