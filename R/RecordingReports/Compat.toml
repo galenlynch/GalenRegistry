@@ -1,15 +1,17 @@
+["0-0.0.1"]
+Seaborn = "0.1-0.4"
+
 ["0.0"]
-julia = "0.7-1"
 Compat = "0.0-2.1"
+DSP = "0.0-0.5"
 DataFrames = "0.1-0.18"
 Destruct = "1.0-1.1"
 Distances = "0.1-0.8"
-DSP = "0.0-0.5"
-GlDbPlotting = "0.0"
 GLFileCache = "0.0"
 GLPlotting = "0.0"
 GLTimeseries = "0.0"
 GLUtilities = "0.0"
+GlDbPlotting = "0.0"
 HypothesisTests = "0.1-0.8"
 Interpolations = "0.0-0.12"
 JLD2 = "0.0-0.1"
@@ -27,11 +29,9 @@ PyQtGraph = "0.0"
 SpikeAnalysis = "0.0"
 StatsBase = "0.1-0.30"
 TSConditioning = "0.0"
+julia = "0.7-1"
 
-["0.0.1"]
-Seaborn = "0.1-0.4"
-
-["0.0.2"]
+["0.0.2-0.0"]
 AcqGuiTools = "0.0"
 ArgCheck = "1.0"
 CategoricalArrays = "0.0-0.5"
@@ -46,3 +46,8 @@ MultivariateStats = "0.0-0.6"
 PointProcesses = "0.0"
 Seaborn = "0.2-0.4"
 StatsModels = "0.0-0.5"
+
+["0.1-0"]
+ArgCheck = "1-2"
+Seaborn = "0.4"
+julia = ["0.7", "1"]
