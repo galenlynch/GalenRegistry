@@ -1,11 +1,14 @@
 ["0.0"]
-julia = "0.6-1"
-Destruct = "1.0-1.1"
 DSP = "0.0-0.5"
+Destruct = "1.0-1.1"
 FFTW = "0.0-0.2"
 GLUtilities = "0.0"
 Interpolations = "0.0-0.12"
 StatsBase = "0.1-0.30"
+julia = "0.6-1"
 
-["0.0.2"]
+["0.0.2-0.0"]
 PointProcesses = "0.0"
+
+["0.1-0"]
+julia = ["0.6-0.7", "1"]
