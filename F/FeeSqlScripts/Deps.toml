@@ -1,19 +1,19 @@
-["0.0"]
+[0]
 FeeSqlLoader = "e8059576-bc99-5d04-89a5-9dd3a07e8d35"
 
-["0.0.1-0.0.2"]
+["0-0.0.2"]
 ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
 
-["0.0.3-0.0.5"]
+["0.0.3-0"]
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 
-["0.0.4-0.0.5"]
+["0.0.4-0"]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 DbCache = "ac41db86-e0e2-5699-a8f0-74eb2b42daa9"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-["0.0.5"]
+["0.0.5-0"]
 AcqGuiTools = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
@@ -28,3 +28,6 @@ OEDiscovery = "cda7f33f-16bd-5acf-8846-697be4d4b9a9"
 Phy = "d375881c-1a96-5303-9718-cbc9093d14c3"
 Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
 WaveClus = "47645f41-d5a4-5a97-9416-ecfa2f0b970d"
+
+["0.1-0"]
+FeatherScope = "cd509344-b550-11e9-0787-e78261257376"
