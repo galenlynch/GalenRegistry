@@ -1,0 +1,5 @@
+[0]
+ColorTypes = "0.10"
+FixedPointNumbers = "0.8"
+ImageCore = "0.8"
+julia = "1"
