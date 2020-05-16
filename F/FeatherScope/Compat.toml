@@ -1,7 +1,13 @@
-["0.1-0"]
-GLUtilities = "0.0.6-0.1"
+[0]
 GaussianMixtures = "0.3"
 Images = "0.22"
 MAT = "0.8"
-VideoIO = "0.6"
 julia = "0.5-1"
+
+["0-0.1.0"]
+GLUtilities = "0.0.6-0.1"
+VideoIO = "0.6"
+
+["0.1.1-0"]
+GLUtilities = "0.1.1-0.1"
+VideoIO = "0.6-0.7"
