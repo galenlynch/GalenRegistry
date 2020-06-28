@@ -18,6 +18,11 @@ OEDiscovery = "0.0"
 ["0.1-0"]
 GLPlotting = "0.0.5-0.1"
 GLTimeseries = "0.0.5-0.1"
-LibPQ = "0.3-0.10"
 OEDiscovery = "0.0.2-0.1"
 OpenEphysLoader = "0.2.3-0.2"
+
+["0.1.0"]
+LibPQ = "0.3-0.10"
+
+["0.1.1-0"]
+LibPQ = "0.3-1"
