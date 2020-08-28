@@ -8,6 +8,11 @@ julia = "0.5-1"
 GLUtilities = "0.0.6-0.1"
 VideoIO = "0.6"
 
+["0.1.1"]
+VideoIO = "0.6-0.7"
+
 ["0.1.1-0"]
 GLUtilities = "0.1.1-0.1"
-VideoIO = "0.6-0.7"
+
+["0.1.2-0"]
+VideoIO = "0.6-0.8"
