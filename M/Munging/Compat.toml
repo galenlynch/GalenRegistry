@@ -19,7 +19,6 @@ OpenEphysLoader = "0.1-0.2"
 DataFrames = "0.10-0.18"
 
 ["0.0.4-0"]
-GLUtilities = "0.0.5-0.1"
 julia = "0.6-1"
 
 ["0.0.4-0.0"]
@@ -28,6 +27,9 @@ Compat = "1.0-1.5"
 DbCache = "0.1.1-0.1.2"
 OEUtilities = "0.0.4-0.0.5"
 OpenEphysLoader = "0.2.3-0.2.4"
+
+["0.0.4-0.1.0"]
+GLUtilities = "0.0.5-0.1"
 
 ["0.0.5-0.0"]
 DataValues = "0.0-0.4"
@@ -44,3 +46,6 @@ ExcelReaders = "0.11"
 IterTools = "1"
 OEUtilities = "0.0.4-0.1"
 OpenEphysLoader = "0.2.3-0.2"
+
+["0.1.1-0"]
+GLUtilities = "0.0.5-0.2"
