@@ -32,3 +32,6 @@ WaveClus = "47645f41-d5a4-5a97-9416-ecfa2f0b970d"
 ["0.1-0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 FeatherScope = "cd509344-b550-11e9-0787-e78261257376"
+
+["0.1.2-0"]
+FeatherscopeExtraction = "dc26a3db-f226-49e4-b913-a88a22652240"
