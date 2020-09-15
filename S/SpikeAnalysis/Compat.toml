@@ -11,12 +11,17 @@ julia = "0.6-1"
 PointProcesses = "0.0"
 
 ["0.1-0"]
-julia = ["0.6-0.7", "1"]
 DSP = "0.6"
 Destruct = "1"
 FFTW = "1"
-GLUtilities = "0.1"
 Interpolations = "0.12"
 PointProcesses = "0.1"
 StatsBase = "0.32-0.33"
 TSConditioning = "0.1"
+julia = ["0.6-0.7", "1"]
+
+["0.1.0"]
+GLUtilities = "0.1"
+
+["0.1.1-0"]
+GLUtilities = "0.1-0.2"
