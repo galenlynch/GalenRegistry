@@ -25,7 +25,6 @@ FeatherScope = "0.1"
 FixedPointNumbers = "0.6-0.8"
 GLFileCache = "0.0.4-0.1"
 GLPlotting = "0.0.6-0.1"
-GLUtilities = "0.0.7-0.1"
 Images = "0.18-0.22"
 JLD2 = "0.1"
 MAT = "0.5-0.8"
@@ -38,8 +37,14 @@ PyPlot = "2"
 RCall = "0.13"
 WAV = "1"
 
+["0.1-0.1.1"]
+GLUtilities = "0.0.7-0.1"
+
 ["0.1.0"]
 LibPQ = "0.10"
 
 ["0.1.1-0"]
 LibPQ = "0.10-1"
+
+["0.1.2-0"]
+GLUtilities = "0.0.7-0.2"
