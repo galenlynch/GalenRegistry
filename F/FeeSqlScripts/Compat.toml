@@ -49,7 +49,6 @@ DataFrames = "0.11-0.21"
 DbCache = "0.1.1-0.1"
 Destruct = "1"
 FeatherScope = "0.1"
-FeeSqlLoader = "0.0.4-0.1"
 GLEphys = "0.1"
 InscopixFiles = "0.0.1-0.1"
 JSON = "0.17-0.21"
@@ -58,8 +57,15 @@ Phy = "0.0.2-0.1"
 Tables = "0.1-1"
 WaveClus = "0.0.2-0.1"
 
+["0.1-0.1.2"]
+FeeSqlLoader = "0.0.4-0.1"
+
 ["0.1.1-0"]
 LibPQ = "0.3-1"
 
 ["0.1.2-0"]
 GLUtilities = "0.0.5-0.2"
+
+["0.1.3-0"]
+FeatherscopeExtraction = "0.1.4-0.1"
+FeeSqlLoader = "0.2"
