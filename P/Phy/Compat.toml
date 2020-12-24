@@ -20,10 +20,16 @@ GLUtilities = "0.0.5-0.1"
 GLEphys = "0.0"
 
 ["0.1-0"]
-CSV = "0.2-0.6"
 Compat = "1-3"
-DataFrames = "0.11-0.21"
 GLEphys = "0.1"
+
+["0.1-0.1.1"]
+CSV = "0.2-0.6"
+DataFrames = "0.11-0.21"
 
 ["0.1.1-0"]
 GLUtilities = "0.0.5-0.2"
+
+["0.1.2-0"]
+CSV = "0.2-0.8"
+DataFrames = "0.11-0.22"
