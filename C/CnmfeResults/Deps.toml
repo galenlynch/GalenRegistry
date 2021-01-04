@@ -3,3 +3,6 @@ CaProcessing = "5d3dd9f5-cffe-4d9b-8768-e5b1153cff1e"
 FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
+
+["0.1.1-0"]
+ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
