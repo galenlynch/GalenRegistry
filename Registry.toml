@@ -41,5 +41,6 @@ d375881c-1a96-5303-9718-cbc9093d14c3 = { name = "Phy", path = "P/Phy" }
 d859e211-4831-58a2-94f1-1b0ad2592100 = { name = "FeeSqlScripts", path = "F/FeeSqlScripts" }
 d95518f9-d624-5c5b-9e70-e2fa41af329d = { name = "OEUtilities", path = "O/OEUtilities" }
 dc26a3db-f226-49e4-b913-a88a22652240 = { name = "FeatherscopeExtraction", path = "F/FeatherscopeExtraction" }
+dc70017b-e5a2-4350-b176-dd98c31a380c = { name = "CnmfePlots", path = "C/CnmfePlots" }
 e0ad81a8-a468-4370-9e62-da670134ef1b = { name = "CnmfeResults", path = "C/CnmfeResults" }
 e8059576-bc99-5d04-89a5-9dd3a07e8d35 = { name = "FeeSqlLoader", path = "F/FeeSqlLoader" }
