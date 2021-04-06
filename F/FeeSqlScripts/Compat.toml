@@ -78,5 +78,8 @@ FeatherscopeExtraction = "0.1.4-0.1"
 CSV = "0.4-0.8"
 DataFrames = "0.11-0.22"
 
-["0.1.5-0"]
+["0.1.5-0.2.0"]
 FeatherscopeExtraction = "0.1.4-0.2"
+
+["0.2.1-0"]
+FeatherscopeExtraction = "0.1.4-0.3"
