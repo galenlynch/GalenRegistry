@@ -34,6 +34,7 @@ acfd8622-5368-561c-8721-366ff6cfe777 = { name = "SpikeAnalysis", path = "S/Spike
 ae4a1b0c-2eba-53ea-bfa1-4b204b1b4ec7 = { name = "Pillow", path = "P/Pillow" }
 ba9f8c08-7079-5968-bb88-5786d7f7fda6 = { name = "RecordingReports", path = "R/RecordingReports" }
 c1fc0891-a329-5e3b-bec7-f99dacaec59e = { name = "Munging", path = "M/Munging" }
+c8e9901b-98b1-4201-9989-7d8ea213d738 = { name = "CnmfeReports", path = "C/CnmfeReports" }
 cb999fff-dc27-5add-ba90-100744871a8d = { name = "GlDbPlotting", path = "G/GlDbPlotting" }
 cd509344-b550-11e9-0787-e78261257376 = { name = "FeatherScope", path = "F/FeatherScope" }
 cda7f33f-16bd-5acf-8846-697be4d4b9a9 = { name = "OEDiscovery", path = "O/OEDiscovery" }
