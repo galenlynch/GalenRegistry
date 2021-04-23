@@ -76,11 +76,14 @@ GLUtilities = "0.0.5-0.2"
 ["0.1.4-0"]
 Tables = "0.2-1"
 
-["0.1.5-0"]
-DataFrames = "0.11-0.22"
-
 ["0.1.5-0.1.6"]
 Interpolations = "0.9-3"
 
+["0.1.5-0.1.7"]
+DataFrames = "0.11-0.22"
+
 ["0.1.7-0"]
 Interpolations = "0.9-0.13"
+
+["0.1.8-0"]
+DataFrames = "0.11-1"
