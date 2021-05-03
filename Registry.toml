@@ -15,6 +15,7 @@ description = "Packages that Galen developed that are not yet public"
 3671797b-b403-50f8-ae8f-9a67aa3877b6 = { name = "PyQtGraph", path = "P/PyQtGraph" }
 37bac92b-e4c2-480a-b015-8005f9486f30 = { name = "FeatherScopePrePro", path = "F/FeatherScopePrePro" }
 3b513129-edc2-41ad-aa38-53fba2c59579 = { name = "ImageOverlays", path = "I/ImageOverlays" }
+429a002d-bc4d-4683-9383-b719270f290d = { name = "SimpleImageRegistration", path = "S/SimpleImageRegistration" }
 47645f41-d5a4-5a97-9416-ecfa2f0b970d = { name = "WaveClus", path = "W/WaveClus" }
 4e159947-943e-46d2-a8e1-9440738fdb20 = { name = "FeatherScopePlots", path = "F/FeatherScopePlots" }
 4f3ae7f7-1a63-5845-9346-bdb28363aa1a = { name = "ShowTree", path = "S/ShowTree" }
