@@ -11,3 +11,8 @@ MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
+
+["0.1.2-0"]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
