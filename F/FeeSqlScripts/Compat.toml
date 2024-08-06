@@ -5,11 +5,11 @@ ODBC = "0.1-0.8"
 FeeSqlLoader = "0.0"
 julia = "0.5-1"
 
-["0.0.3-0"]
-Missings = "0.2-0.4"
-
 ["0.0.3-0.0"]
 JSON = "0.17-0.20"
+
+["0.0.3-0.2.2"]
+Missings = "0.2-0.4"
 
 ["0.0.4-0"]
 julia = "0.6-1"
@@ -74,11 +74,11 @@ FeeSqlLoader = "0.2"
 ["0.1.3-0.1.4"]
 FeatherscopeExtraction = "0.1.4-0.1"
 
-["0.1.4-0"]
-CSV = "0.4-0.8"
-
 ["0.1.4-0.2.1"]
 DataFrames = "0.11-0.22"
+
+["0.1.4-0.2.2"]
+CSV = "0.4-0.8"
 
 ["0.1.5-0.2.0"]
 FeatherscopeExtraction = "0.1.4-0.2"
@@ -88,3 +88,7 @@ FeatherscopeExtraction = "0.1.4-0.3"
 
 ["0.2.2-0"]
 DataFrames = "0.11-1"
+
+["0.2.3-0"]
+CSV = "0.4-0.10"
+Missings = "0.2-1"
