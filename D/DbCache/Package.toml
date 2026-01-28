@@ -1,3 +1,3 @@
 name = "DbCache"
 uuid = "ac41db86-e0e2-5699-a8f0-74eb2b42daa9"
-repo = "git@bitbucket.org:feelab/DbCache.jl.git"
+repo = "git@github.com:galenlynch/DbCache.jl.git"
