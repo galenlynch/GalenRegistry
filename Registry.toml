@@ -8,6 +8,7 @@ description = "Packages that Galen developed that are not yet public"
 0c649a72-a9cb-5d46-9b0c-e014f97c08cd = { name = "MountainLab", path = "M/MountainLab" }
 1751c77c-d90c-5130-9faa-3b4ea8d90a70 = { name = "PointProcesses", path = "P/PointProcesses" }
 1899e1d9-0e62-5b08-93e8-96938e3582a6 = { name = "GLTimeseries", path = "G/GLTimeseries" }
+18f53e89-494d-4131-905c-653e8ada6cd8 = { name = "SignalIndices", path = "S/SignalIndices" }
 1f2ffea9-73bd-5d04-b319-71eab08f4cf7 = { name = "GLPlotting", path = "G/GLPlotting" }
 22e6403b-b5c1-5b07-bdd0-e10e94a3d1a8 = { name = "Chronux", path = "C/Chronux" }
 250fb856-b7da-50e3-a87b-ac946a549c37 = { name = "GCaMPAnalysis", path = "G/GCaMPAnalysis" }
