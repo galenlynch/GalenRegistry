@@ -1,3 +1,3 @@
 name = "WaveClus"
 uuid = "47645f41-d5a4-5a97-9416-ecfa2f0b970d"
-repo = "git@bitbucket.org:feelab/WaveClus.jl.git"
+repo = "git@github.com:galenlynch/WaveClus.jl.git"
