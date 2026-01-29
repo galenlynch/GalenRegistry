@@ -1,3 +1,3 @@
 name = "GlDbPlotting"
 uuid = "cb999fff-dc27-5add-ba90-100744871a8d"
-repo = "git@bitbucket.org:feelab/gldbplotting.jl.git"
+repo = "git@github.com:galenlynch/GlDbPlotting.jl.git"

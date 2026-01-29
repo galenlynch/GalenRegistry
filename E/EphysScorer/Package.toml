@@ -1,3 +1,3 @@
 name = "EphysScorer"
 uuid = "66348666-c7df-5349-9f57-1aa7b70c968c"
-repo = "git@bitbucket.org:feelab/ephysscorer.jl.git"
+repo = "git@github.com:galenlynch/EphysScorer.jl.git"

@@ -1,3 +1,3 @@
 name = "GCaMPAnalysis"
 uuid = "250fb856-b7da-50e3-a87b-ac946a549c37"
-repo = "git@bitbucket.org:feelab/GCaMPAnalysis.jl.git"
+repo = "git@github.com:galenlynch/GCaMPAnalysis.jl.git"

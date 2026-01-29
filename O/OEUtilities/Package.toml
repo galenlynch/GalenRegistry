@@ -1,3 +1,3 @@
 name = "OEUtilities"
 uuid = "d95518f9-d624-5c5b-9e70-e2fa41af329d"
-repo = "git@bitbucket.org:feelab/OEUtilities.jl.git"
+repo = "git@github.com:galenlynch/OEUtilities.jl.git"
