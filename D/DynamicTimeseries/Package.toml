@@ -1,0 +1,3 @@
+name = "DynamicTimeseries"
+uuid = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+repo = "https://github.com/galenlynch/DynamicTimeseries.jl.git"
