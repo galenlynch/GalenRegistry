@@ -1,6 +1,6 @@
 name = "Galen"
 uuid = "58ff900b-3071-5ad5-aefd-6f26c7ca40c3"
-repo = "git@bitbucket.org:feelab/galenregistry.git"
+repo = "https://github.com/galenlynch/GalenRegistry.git"
 description = "Packages that Galen developed that are not yet public"
 
 [packages]
