@@ -1,3 +1,3 @@
 name = "AcqGuiTools"
 uuid = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
-repo = "git@github.com:galenlynch/AcqGuiTools.jl.git"
+repo = "https://github.com/galenlynch/AcqGuiTools.jl.git"
