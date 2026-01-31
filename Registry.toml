@@ -20,6 +20,7 @@ description = "Packages that Galen developed that are not yet public"
 47645f41-d5a4-5a97-9416-ecfa2f0b970d = { name = "WaveClus", path = "W/WaveClus" }
 4e159947-943e-46d2-a8e1-9440738fdb20 = { name = "FeatherScopePlots", path = "F/FeatherScopePlots" }
 4f3ae7f7-1a63-5845-9346-bdb28363aa1a = { name = "ShowTree", path = "S/ShowTree" }
+54b80fc8-3c35-4556-8cc1-32f813c15580 = { name = "PreciseTimestamps", path = "P/PreciseTimestamps" }
 5d3dd9f5-cffe-4d9b-8768-e5b1153cff1e = { name = "CaProcessing", path = "C/CaProcessing" }
 65444e21-13b1-5fbd-b269-b51e5fd998ef = { name = "TSConditioning", path = "T/TSConditioning" }
 66348666-c7df-5349-9f57-1aa7b70c968c = { name = "EphysScorer", path = "E/EphysScorer" }
