@@ -1,3 +1,3 @@
 name = "SpikeAnalysis"
 uuid = "acfd8622-5368-561c-8721-366ff6cfe777"
-repo = "git@github.com:galenlynch/SpikeAnalysis.jl.git"
+repo = "https://github.com/galenlynch/SpikeAnalysis.jl.git"
