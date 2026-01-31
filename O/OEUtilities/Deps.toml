@@ -9,16 +9,25 @@ GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
 
 ["0.0.3-0"]
 GLFileCache = "09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a"
-GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
 MountainLab = "0c649a72-a9cb-5d46-9b0c-e014f97c08cd"
 
+["0.0.3-0.1.2"]
+GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+
 ["0.0.4-0"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
-SpykingCircus = "8f482346-92be-5b4f-b3d2-8fb8a911da8e"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 TSConditioning = "65444e21-13b1-5fbd-b269-b51e5fd998ef"
+
+["0.0.4-0.1.2"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+SpykingCircus = "8f482346-92be-5b4f-b3d2-8fb8a911da8e"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.1.3-0"]
+DynamicTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+PreciseTimestamps = "54b80fc8-3c35-4556-8cc1-32f813c15580"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
