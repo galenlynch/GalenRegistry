@@ -2,12 +2,14 @@
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 Destruct = "dde75ccc-4946-507f-85f2-ccadd28c929c"
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
-GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-["0.0.2-0"]
+["0-0.1.3"]
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+
+["0.0.2-0.1.3"]
 PointProcesses = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
 
 ["0.1-0"]
@@ -16,3 +18,9 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 SharedArrays = "1a1011a3-84de-559e-8e89-a11a2f7dc383"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 TSConditioning = "65444e21-13b1-5fbd-b269-b51e5fd998ef"
+
+["0.1.4-0"]
+EventIntervals = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SortedIntervals = "b6c59e15-8662-4f8a-b157-cd910e143dcd"
