@@ -7,7 +7,6 @@ MAT = "0.9"
 ["0.1.2-0"]
 CaProcessing = "0.1"
 FixedPointNumbers = "0.8"
-GLUtilities = "0.2"
 
 ["0.1.2-0.1.4"]
 VideoIO = "0.8"
@@ -20,6 +19,9 @@ ImageTransformations = "0.8"
 
 ["0.1.2-0.1.7"]
 ImageOverlays = "0.1.1-0.1"
+
+["0.1.2-0.1.8"]
+GLUtilities = "0.2"
 
 ["0.1.3-0.1.6"]
 MAT = "0.9-0.10"
@@ -39,3 +41,7 @@ ImageTransformations = "0.8-0.10"
 MAT = "0.9-0.11"
 VideoIO = "1"
 julia = "1.10.0-1"
+
+["0.1.9-0"]
+SignalIndices = "0.1.1-0.1"
+SortedIntervals = "0.1"

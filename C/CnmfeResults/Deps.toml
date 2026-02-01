@@ -9,11 +9,13 @@ ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
 
 ["0.1.2-0"]
 ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
-GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 ["0.1.2-0.1.7"]
 ImageOverlays = "3b513129-edc2-41ad-aa38-53fba2c59579"
+
+["0.1.2-0.1.8"]
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 
 ["0.1.4-0"]
 Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
@@ -25,3 +27,7 @@ JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 
 ["0.1.6-0"]
 Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+
+["0.1.9-0"]
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SortedIntervals = "b6c59e15-8662-4f8a-b157-cd910e143dcd"
