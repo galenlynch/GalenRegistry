@@ -1,7 +1,5 @@
 [0]
 AcqGuiTools = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
-ExcelReaders = "c04bee98-12a5-510c-87df-2a230cb6e075"
 GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 OpenEphysLoader = "98c9b6dd-1b90-5d67-90ca-be6a773cd6f7"
@@ -15,15 +13,21 @@ DataArrays = "0fe7c1db-08c2-54a3-a222-6d1d3b7a471a"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 
+["0-0.2.3"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+ExcelReaders = "c04bee98-12a5-510c-87df-2a230cb6e075"
+
 ["0.0.2-0"]
 DbCache = "ac41db86-e0e2-5699-a8f0-74eb2b42daa9"
 
-["0.0.3-0"]
+["0.0.3-0.2.3"]
 Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 
 ["0.0.4-0"]
-DataValues = "e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+["0.0.4-0.2.3"]
+DataValues = "e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 ["0.0.5-0"]
@@ -40,3 +44,6 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 ["0.2.2-0"]
 LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+
+["0.2.4-0"]
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
