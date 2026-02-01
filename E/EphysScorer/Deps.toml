@@ -1,20 +1,34 @@
 [0]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 GLFileCache = "09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a"
-GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
-GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
 GlDbPlotting = "cb999fff-dc27-5add-ba90-100744871a8d"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
-Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 OEDiscovery = "cda7f33f-16bd-5acf-8846-697be4d4b9a9"
 OEPlotting = "792fb28f-c6b2-5f06-a8ac-ad608d2e04a9"
-PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 PyQtGraph = "3671797b-b403-50f8-ae8f-9a67aa3877b6"
+
+["0-0.1.1"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 ["0.0.2-0"]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+
+["0.0.2-0.1.1"]
 PointProcesses = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
+
+["0.1.2-0"]
+DynamicTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+EventIntervals = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
+PreciseTimestamps = "54b80fc8-3c35-4556-8cc1-32f813c15580"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+SortedIntervals = "b6c59e15-8662-4f8a-b157-cd910e143dcd"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
