@@ -1,15 +1,22 @@
 [0]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GLEphys = "aa617110-c04f-5099-8839-5e9d8aa4b2aa"
-GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
 GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
 OEDiscovery = "cda7f33f-16bd-5acf-8846-697be4d4b9a9"
-PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 PyQtGraph = "3671797b-b403-50f8-ae8f-9a67aa3877b6"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
+["0-0.1.4"]
+GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
 ["0.0.2-0"]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+
+["0.1.5-0"]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
