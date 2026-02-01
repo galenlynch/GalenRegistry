@@ -10,29 +10,40 @@ PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 NamedTuples = "73a701b4-84e1-5df0-88ff-1968ee2ee8dc"
 
 ["0.0.2-0"]
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-DataStreams = "9a8bc11e-79be-5b39-94d7-1ccc349a1a85"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 GLFileCache = "09a0ae9b-ba3b-5e1c-94b6-f03ec874e73a"
-GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
 GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
-Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 TSConditioning = "65444e21-13b1-5fbd-b269-b51e5fd998ef"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
+["0.0.2-0.1.9"]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+DataStreams = "9a8bc11e-79be-5b39-94d7-1ccc349a1a85"
+GLTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+Missings = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
+
 ["0.0.3-0"]
 AcqGuiTools = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
-Destruct = "dde75ccc-4946-507f-85f2-ccadd28c929c"
 IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
-PointProcesses = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
 TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
+
+["0.0.3-0.1.9"]
+Destruct = "dde75ccc-4946-507f-85f2-ccadd28c929c"
+PointProcesses = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
 
 ["0.1-0"]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Tables = "bd369af6-aec1-5ad0-b16a-f7cc5008161c"
+
+["0.1.10-0"]
+DynamicTimeseries = "1899e1d9-0e62-5b08-93e8-96938e3582a6"
+EventIntervals = "1751c77c-d90c-5130-9faa-3b4ea8d90a70"
+PreciseTimestamps = "54b80fc8-3c35-4556-8cc1-32f813c15580"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SortedIntervals = "b6c59e15-8662-4f8a-b157-cd910e143dcd"
