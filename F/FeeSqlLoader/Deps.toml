@@ -47,3 +47,7 @@ LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
 
 ["0.2.4-0"]
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+["0.2.5-0"]
+PreciseTimestamps = "54b80fc8-3c35-4556-8cc1-32f813c15580"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
