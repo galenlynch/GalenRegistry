@@ -21,16 +21,8 @@ julia = "0.7-1"
 ["0.1-0"]
 AcqGuiTools = "0.0.5-0.1"
 FeatherScope = "0.1"
-FixedPointNumbers = "0.6-0.8"
 GLFileCache = "0.0.4-0.1"
-GLPlotting = "0.0.6-0.1"
-MultipleTesting = "0.4"
 OEDiscovery = "0.0.3-0.1"
-Pillow = "0.0.1-0.1"
-PointProcesses = "0.0.3-0.1"
-PyCall = "1"
-PyPlot = "2"
-RCall = "0.13"
 WAV = "1"
 
 ["0.1-0.1.1"]
@@ -42,27 +34,56 @@ Images = "0.18-0.22"
 JLD2 = "0.1"
 MAT = "0.5-0.8"
 
+["0.1-0.1.5"]
+FixedPointNumbers = "0.6-0.8"
+GLPlotting = "0.0.6-0.1"
+MultipleTesting = "0.4"
+Pillow = "0.0.1-0.1"
+PointProcesses = "0.0.3-0.1"
+PyCall = "1"
+PyPlot = "2"
+RCall = "0.13"
+
 ["0.1.0"]
 LibPQ = "0.10"
 
-["0.1.1-0"]
+["0.1.1-0.1.5"]
 LibPQ = "0.10-1"
 
-["0.1.2-0"]
+["0.1.2-0.1.5"]
 GLUtilities = "0.0.7-0.2"
 
 ["0.1.3"]
 MAT = "0.5-0.9"
 
-["0.1.3-0"]
-Images = "0.18-0.23"
-JLD2 = "0.3"
-
 ["0.1.3-0.1.4"]
 DataFrames = "0.11-0.22"
 
-["0.1.4-0"]
+["0.1.3-0.1.5"]
+Images = "0.18-0.23"
+JLD2 = "0.3"
+
+["0.1.4-0.1.5"]
 MAT = "0.5-0.10"
 
-["0.1.5-0"]
+["0.1.5"]
 DataFrames = "0.11-1"
+
+["0.1.6-0"]
+CategoricalArrays = ["0.10", "1"]
+DataFrames = "1"
+EventIntervals = "0.1"
+FixedPointNumbers = "0.8"
+GLUtilities = "0.3"
+Images = "0.26"
+JLD2 = "0.5-0.6"
+LibPQ = "1"
+MAT = "0.10-0.11"
+MultipleTesting = "0.6"
+Pillow = "0.1"
+PreciseTimestamps = "0.1"
+PythonCall = "0.9"
+PythonPlot = "1"
+RCall = "0.14"
+SignalIndices = "0.1"
+SignalPlots = "0.1.7-0.1"
