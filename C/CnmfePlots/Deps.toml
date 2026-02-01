@@ -4,11 +4,19 @@ ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
 FeatherscopeExtraction = "dc26a3db-f226-49e4-b913-a88a22652240"
 FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
-GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
-GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
-PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["0-0.1.3"]
+GLPlotting = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+
+["0.1.4-0"]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
