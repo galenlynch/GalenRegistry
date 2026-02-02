@@ -12,5 +12,10 @@ PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
-SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+["0-0.1.1"]
+SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+
+["0.1.2-0"]
+NeuroPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
