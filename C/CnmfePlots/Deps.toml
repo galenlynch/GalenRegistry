@@ -15,8 +15,13 @@ GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
+["0.1.4"]
+SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+
 ["0.1.4-0"]
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
 SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
-SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+
+["0.1.5-0"]
+NeuroPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
