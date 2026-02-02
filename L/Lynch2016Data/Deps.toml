@@ -3,7 +3,13 @@ AcqGuiTools = "85caa3df-cadf-5975-918b-2e8fc037b3f4"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
-GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
+
+["0-0.1.0"]
+GLUtilities = "8b4c6747-1f02-570a-a961-a96037df41d6"
+
+["0.1.1-0"]
+SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+SortedIntervals = "b6c59e15-8662-4f8a-b157-cd910e143dcd"
