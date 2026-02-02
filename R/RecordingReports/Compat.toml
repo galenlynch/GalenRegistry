@@ -49,10 +49,56 @@ StatsModels = "0.0-0.5"
 
 ["0.1-0"]
 ArgCheck = "1-2"
+
+["0.1-0.1.1"]
 julia = ["0.7", "1"]
 
 ["0.1.0"]
 Seaborn = "0.4"
 
-["0.1.1-0"]
+["0.1.1"]
 Seaborn = ["0.4", "1"]
+
+["0.1.2-0"]
+AcqGuiTools = "0.1"
+Combinatorics = "1"
+DSP = "0.7-0.8"
+DataFrames = "1"
+Destruct = "1"
+Distances = "0.10"
+Distributed = "1.11.0-1"
+Distributions = "0.25"
+DynamicTimeseries = "0.1"
+EventIntervals = "0.1"
+FileIO = "1"
+GLFileCache = "0.1"
+GLM = "1"
+GLUtilities = "0.3"
+GlDbPlotting = "0.1"
+HypothesisTests = "0.11"
+Interpolations = "0.13-0.16"
+JLD2 = "0.4-0.6"
+LibPQ = "1"
+MAT = "0.10-0.11"
+MultipleTesting = "0.6"
+MultivariateStats = "0.10"
+OEDiscovery = "0.1"
+OEPlotting = "0.1"
+OEUtilities = "0.1"
+OpenEphysLoader = "0.2"
+Optim = "1-2"
+Phy = "0.1"
+PreciseTimestamps = "0.1"
+PyQtGraph = "0.1"
+PythonCall = "0.9"
+PythonPlot = "1"
+SignalIndices = "0.1.1-0.1"
+SignalPlots = "0.1.7-0.1"
+SortedIntervals = "0.1"
+SpikeAnalysis = "0.1"
+StatsBase = "0.33-0.34"
+StatsModels = "0.7"
+TSConditioning = "0.1"
+Tables = "1"
+XLSX = "0.10-0.11"
+julia = "1.10.0-1"
