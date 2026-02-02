@@ -9,6 +9,7 @@ description = "Packages that Galen developed that are not yet public"
 1751c77c-d90c-5130-9faa-3b4ea8d90a70 = { name = "EventIntervals", path = "E/EventIntervals" }
 1899e1d9-0e62-5b08-93e8-96938e3582a6 = { name = "DynamicTimeseries", path = "D/DynamicTimeseries" }
 18f53e89-494d-4131-905c-653e8ada6cd8 = { name = "SignalIndices", path = "S/SignalIndices" }
+1edc36e0-e0d6-4a03-9cc5-f51062c1a987 = { name = "MscpPaper", path = "M/MscpPaper" }
 1f2ffea9-73bd-5d04-b319-71eab08f4cf7 = { name = "SignalPlots", path = "S/SignalPlots" }
 22e6403b-b5c1-5b07-bdd0-e10e94a3d1a8 = { name = "Chronux", path = "C/Chronux" }
 250fb856-b7da-50e3-a87b-ac946a549c37 = { name = "GCaMPAnalysis", path = "G/GCaMPAnalysis" }
