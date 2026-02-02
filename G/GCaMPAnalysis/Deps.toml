@@ -35,4 +35,9 @@ PreciseTimestamps = "54b80fc8-3c35-4556-8cc1-32f813c15580"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 PythonPlot = "274fc56d-3b97-40fa-a1cd-1b4a50311bf9"
 SignalIndices = "18f53e89-494d-4131-905c-653e8ada6cd8"
+
+["0.1.6-0.1.7"]
 SignalPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
+
+["0.1.8-0"]
+NeuroPlots = "1f2ffea9-73bd-5d04-b319-71eab08f4cf7"
